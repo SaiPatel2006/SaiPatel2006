@@ -1,9 +1,6 @@
 # Hi, I'm Sai 👋
 
-Math + CS @ UIUC. I build systems for **quantitative trading and research** — market data pipelines, signal generation, backtesting, and risk-aware execution.
-
-Most of what I work on sits at the intersection of markets and software: pulling live data off exchanges, turning it into signals, and testing whether those signals actually hold up.
-
+Math + CS @ UIUC. 
 **Currently interested in:** quant trading / research roles, systematic strategies, market microstructure, and low-latency data systems.
 
 ---
